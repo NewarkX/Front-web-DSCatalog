@@ -10,7 +10,7 @@ const Home = () => (
             <div className="col-6 home-text">
                 <h1 className="text-tittle" >Conheça o melhor <br/> catálogo de produtos</h1>
                 <p className="text-subtitle" >Ajudaremos a você a encontrar os melhores <br/> produtos disponíveis no mercado</p>
-                <Link to="/catalog" >
+                <Link to="/products" >
                     <ButtonIcon text="inicie agora a sua busca" />
                 </Link>  
             </div>
