@@ -2037,6 +2037,13 @@
   resolved "https://registry.yarnpkg.com/@types/q/-/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha512-ce5d3q03Ex0sy4R14722Rmt6MT07Ua+k4FwDfdcToYJcMKNtRVQvJ6JCAPdAmAnbRb6CsX6aYb9m96NGod9uTw==
 
+"@types/react-content-loader@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react-content-loader/-/react-content-loader-4.0.0.tgz#2d591eb12a1600b52ce2ca2564937c1e7f00ea26"
+  integrity sha512-q06iajQsGE/fi08W7bchIX2C/dgKLMU4KLAWQOeF9WZFmXd6SeRdSjO9Z/grXaKXnjFW6+P7l6/BlN9kvO2v2A==
+  dependencies:
+    react-content-loader "*"
+
 "@types/react-dom@^16.9.8":
   version "16.9.10"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.9.10.tgz#4485b0bec3d41f856181b717f45fd7831101156f"
@@ -9826,6 +9833,11 @@ react-app-polyfill@^2.0.0:
     raf "^3.4.1"
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
+
+react-content-loader@*:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/react-content-loader/-/react-content-loader-6.0.1.tgz#1c5ce4a6256d974fcd3ac85460eca24b33226920"
+  integrity sha512-djJUgGNze7YdWzJA1kYO1eKXAMpP+Z4sMulmEuTVi6vEXzfuQCJs6yD8hhgWj23vvJPZL5b8NyabxteyF8Hq/g==
 
 react-dev-utils@^11.0.1:
   version "11.0.1"
